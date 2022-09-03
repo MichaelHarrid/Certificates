@@ -1,7 +1,7 @@
 # Certificates
 
 # Data Analytics with SQL for Beginners
-![](images/certificates/DataAnalytics.png)
+![](certificates/DataAnalytics.png)
 Speaker: Benjamin Cabalona
 Date: July 19, 2022 - 14:00
 
